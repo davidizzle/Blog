@@ -1,4 +1,4 @@
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "davideferretti.me"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -50,7 +50,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url = "mailto:davide.ferretti98@gmail.com@email.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:davide.ferretti98@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     [[params.social]]
@@ -105,11 +105,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     [languages.es]
-        languageName     = "Español"
+        languageName     = "Espaï¿½ol"
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Introducción"
+        title            = "Introducciï¿½n"
         [languages.es.params]
             description  = "Descripcion del sitio web"
             # footerText   = ""
