@@ -1,6 +1,6 @@
 ---
-title: "Hallo, ich bin Vorstellung"
+title: "Ehilà."
 headless: true
 ---
 
-Ich bin ein Hugo Theme
+Sei finito sul mio sito. Ciao, sono Davide Ferretti.
