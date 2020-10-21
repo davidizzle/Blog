@@ -1,4 +1,4 @@
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "http://davideferretti.me"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -105,11 +105,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     [languages.es]
-        languageName     = "Español"
+        languageName     = "Espaï¿½ol"
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Introducción"
+        title            = "Introducciï¿½n"
         [languages.es.params]
             description  = "Descripcion del sitio web"
             # footerText   = ""
