@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Davide!"
+title: "Greetings, citizen."
 headless: true
 ---
 
-Welcome to my online Portfolio.
+My name is Davide Ferretti, and this is my playground.
